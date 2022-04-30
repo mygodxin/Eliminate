@@ -1,0 +1,255 @@
+{
+    "skin": [
+        {
+            "icon": "ui://common/A_0",
+            "name": "default",
+            "price": [],
+            "times": 0
+        },
+        {
+            "icon": "ui://common/B_0",
+            "name": "gem",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/C_0",
+            "name": "qiu",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/D_0",
+            "name": "xc",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/E_0",
+            "name": "cake",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/F_0",
+            "name": "monster",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/G_0",
+            "name": "sweet",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/H_0",
+            "name": "monster",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/I_0",
+            "name": "animal",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        }
+    ],
+    "bg": [
+        {
+            "icon": "ui://common/bjPiFu_A",
+            "name": "default",
+            "price": [],
+            "times": 0
+        },
+        {
+            "icon": "ui://common/bjPiFu_B",
+            "name": "fruit",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_C",
+            "name": "animal",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_D",
+            "name": "cake",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_E",
+            "name": "gem",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_F",
+            "name": "monster",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_G",
+            "name": "sweet",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_H",
+            "name": "ball",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        },
+        {
+            "icon": "ui://common/bjPiFu_I",
+            "name": "default1",
+            "price": [
+                2,
+                3
+            ],
+            "video": [
+                1,
+                2
+            ],
+            "times": 2
+        }
+    ],
+    "price":[
+        10,
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100
+    ],
+    "video":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "item":[
+        55,
+        56,
+        57
+    ]
+}

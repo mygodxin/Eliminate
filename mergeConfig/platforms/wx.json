@@ -1,0 +1,75 @@
+{
+    "switch": true,
+    "headSwitch": false,
+    "banner": {
+        "RewardWindow": {
+            "adUnitId": "adunit-5390cd2ae4072066",
+            "left": 1,
+            "width": 300
+        },
+        "GameResultWindow": {
+            "adUnitId": "adunit-a918ce96af46729a",
+            "left": 0,
+            "width": 300
+        },
+        "FriendWindow": {
+            "adUnitId": "adunit-664e69adfec27641",
+            "left": 2,
+            "width": 300
+        },
+        "plazaRewardWindow": {
+            "offsetY": 260,
+            "offsetH": 0,
+            "adUnitId": "adunit-5390cd2ae4072066",
+            "left": 1,
+            "width": 300
+        },
+        "endgameResultWin": {
+            "offsetY": 180,
+            "offsetH": 260,
+            "adUnitId": "adunit-5390cd2ae4072066",
+            "left": 1,
+            "width": 300
+        },
+        "guajiGuaJiRewardWindow": {
+            "offsetY": 240,
+            "adUnitId": "adunit-5390cd2ae4072066",
+            "left": 1,
+            "width": 300
+        }
+    },
+    "video": {
+        "plaza": "adunit-7978c900cf0b7eb2"
+    },
+    "interstitial": "adunit-4d3dd86c9bf98d3f",
+    "jump": [
+        {
+            "jumpAppid": "wxb48a6fb448abad21",
+            "jumpIcon": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.3.32/cloud/jump/basicprofile.png",
+            "jumpName": "清墩"
+        },
+        {
+            "jumpAppid": "wx08e9c1f566c6691a",
+            "jumpIcon": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.3.32/cloud/jump/shuangsheng.png",
+            "jumpName": "双升"
+        }
+    ],
+    "share": [
+        {
+            "title": " 有人@你，来打掼蛋",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        },
+        {
+            "title": "这手牌能带队友飞吗？",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        },
+        {
+            "title": "一把掼蛋赢了40多万！",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        }
+    ],
+    "midasOfferId": 1450021878,
+    "boxlist": [
+        218
+    ]
+}

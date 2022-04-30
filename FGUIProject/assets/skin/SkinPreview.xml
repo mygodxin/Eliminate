@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="537,370">
+  <displayList>
+    <image id="n1_lu22" name="n1" src="hqtu2" fileName="res/dikuang.png" xy="0,0" size="537,370" pkg="8odbecjp"/>
+    <list id="n0_lu22" name="list" xy="54,47" size="867,567" scale="0.5,0.5" touchable="false" layout="pagination" overflow="scroll" defaultItem="ui://e5dagln6hqtue" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

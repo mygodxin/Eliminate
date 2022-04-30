@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ew1qu1oe">
+  <resources>
+    <component id="hqtu0" name="SetWin.xml" path="/" exported="true"/>
+    <image id="hqtu1" name="anniu1.png" path="/res/"/>
+    <image id="hqtu2" name="bangzhu.png" path="/res/"/>
+    <image id="hqtu3" name="bianbi.png" path="/res/"/>
+    <image id="hqtu5" name="KAPIAN.png" path="/res/"/>
+    <image id="hqtu6" name="menu.png" path="/res/"/>
+    <image id="hqtu8" name="privacy.png" path="/res/"/>
+    <image id="hqtu9" name="rules.png" path="/res/"/>
+    <image id="hqtub" name="shuzi.png" path="/res/"/>
+    <image id="hqtuc" name="suo.png" path="/res/"/>
+    <image id="hqtud" name="taitou.png" path="/res/"/>
+    <image id="hqtuf" name="X.png" path="/res/"/>
+    <image id="hqtug" name="yinliang.png" path="/res/"/>
+    <image id="hqtuh" name="yinyue.png" path="/res/"/>
+    <image id="hqtui" name="道具效果图.jpg" path="/res/"/>
+    <image id="hqtuj" name="设置效果图.jpg" path="/res/"/>
+    <component id="hqtuk" name="IconButton.xml" path="/comp/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

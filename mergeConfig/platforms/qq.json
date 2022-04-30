@@ -1,0 +1,68 @@
+{
+    "switch": false,
+    "headSwitch": true,
+    "check":{
+        "head":false,
+        "banner":false,
+        "recharge":false
+    },
+    "banner": {
+        "RewardWindow": {
+            "adUnitId": "d0e1eb8e8622e448e7d5d668813e48f1",
+            "left": 1,
+            "width": 300
+        },
+        "GameResultWindow": {
+            "adUnitId": "d0e1eb8e8622e448e7d5d668813e48f1",
+            "left": 0,
+            "width": 300
+        },
+        "FriendWindow": {
+            "adUnitId": "d0e1eb8e8622e448e7d5d668813e48f1",
+            "left": 2,
+            "width": 300
+        },
+        "plazaRewardWindow": {
+            "offsetY": 330,
+            "offsetH": 0,
+            "adUnitId": "17802820bd315f23e306a715242bed97",
+            "left": 1,
+            "width": 300
+        },
+        "endgameResultWin": {
+            "offsetY": 260,
+            "offsetH": 260,
+            "adUnitId": "d0e1eb8e8622e448e7d5d668813e48f1",
+            "left": 1,
+            "width": 300
+        },
+        "guajiGuaJiRewardWindow": {
+            "offsetY": 330,
+            "adUnitId": "d0e1eb8e8622e448e7d5d668813e48f1",
+            "left": 1,
+            "width": 300
+        }
+    },
+    "video": {
+        "default": "ab9dd011f0ffd504f8e9595387e0e419"
+    },
+    "interstitial": "9a38f62299ffaa1d6eca2d42119df1ed",
+    "share": [
+        {
+            "title": " 有人@你，来打掼蛋",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        },
+        {
+            "title": "这手牌能带队友飞吗？",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        },
+        {
+            "title": "一把掼蛋赢了40多万！",
+            "imageUrl": "https://download.qipai007.com/app-res/shuangkou-wxgame/v1.0.0/cloud/share/share2.png"
+        }
+    ],
+    "midasOfferId": 1450021878,
+    "boxlist": [
+        218
+    ]
+}

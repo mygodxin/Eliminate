@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="279,279" opaque="false" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <controller name="time" pages="0,,1," selected="1"/>
+  <controller name="sel" pages="0,,1," selected="0"/>
+  <controller name="use" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_hqtu" name="n0" src="hqtu7" fileName="res/xiaokuang.png" xy="0,0"/>
+    <image id="n3_ecme" name="n3" src="w7kin" fileName="res/xiaokuang2.png" xy="0,0" size="279,279">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <image id="n6_bw6u" name="n6" src="r9tyo" fileName="res/xiaokuang3.png" xy="0,0" size="279,279">
+      <gearDisplay controller="sel" pages="1"/>
+    </image>
+    <loader id="n1_ecme" name="icon" xy="49,39" size="170,170" fill="scaleFree"/>
+    <image id="n4_pon6" name="n4" src="hqtu3" fileName="res/guanggao_anniu.png" xy="94,183">
+      <gearDisplay controller="time" pages="1"/>
+    </image>
+    <image id="n5_pon6" name="n5" src="hqtu1" fileName="res/bofang.png" xy="110,209">
+      <gearDisplay controller="time" pages="1"/>
+    </image>
+    <text id="n2_ecme" name="title" xy="158,198" size="92,48" fontSize="35" color="#ffffff" align="center" autoSize="none" text="0/1">
+      <gearDisplay controller="time" pages="1"/>
+    </text>
+    <image id="n7_id7g" name="n7" src="id7gp" fileName="res/src=http___zhiboadmin.idyoga.cn_image_icon_image_2019_08_5d6783125c82d.gif&amp;refer=http___zhiboadmin.idyoga.jpg" xy="156,161" size="110,104">
+      <gearDisplay controller="use" pages="1"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

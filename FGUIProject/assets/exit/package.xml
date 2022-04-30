@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rpg8zlg9">
+  <resources>
+    <component id="pon60" name="ExitWin.xml" path="/" exported="true"/>
+    <image id="pon61" name="diban.png" path="/res/"/>
+    <image id="pon62" name="lanse.png" path="/res/"/>
+    <image id="pon63" name="lvse.png" path="/res/"/>
+    <image id="pon64" name="menu.png" path="/res/"/>
+    <image id="pon65" name="menu2.png" path="/res/"/>
+    <image id="pon66" name="no.png" path="/res/"/>
+    <image id="pon67" name="ok .png" path="/res/"/>
+    <image id="pon68" name="退出.jpg" path="/res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="bg" pages="0,,1," selected="0"/>
+  <controller name="mode" pages="0,对战,1,单人" selected="0"/>
+  <controller name="turnTip" pages="0,,1," selected="0"/>
+  <controller name="newRecord" pages="0,,1," selected="0">
+    <action type="play_transition" fromPage="" toPage="1" transition="t0"/>
+  </controller>
+  <displayList>
+    <loader id="n23_hqtu" name="bg" xy="0,0" size="1080,1920" url="ui://xww73zw2qvbg1v">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader3D id="n49_rq8n" name="emLoader3D" xy="234,12" size="682,584" touchable="false" url="ui://xww73zw2rq8n40" animation="" skin="" loop="true">
+      <gearDisplay controller="mode" pages="1"/>
+    </loader3D>
+    <component id="n2_fcm8" name="moneyComp" src="pcejp" fileName="comp/MonayComp.xml" pkg="8odbecjp" xy="688,0">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <loader id="n0_fcm8" name="qipan" xy="-37,197" pivot="0.5,0.5" size="1155,1525" visible="false" url="ui://xww73zw2qvbg25" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader3D id="n43_w5z4" name="qpLoader3D" xy="-49,346" size="1194,1194" visible="false" url="ui://xww73zw2tqg12m" animation="" skin="" loop="true"/>
+    <component id="n15_o218" name="gridComp" src="xy6g2q" fileName="GridComp.xml" xy="7,3"/>
+    <text id="n6_fcm8" name="otherScore" xy="278,309" size="53,73" group="n33_id7g" font="ui://8odbecjppcejd" fontSize="55" color="#33ff66" text="0"/>
+    <graph id="n31_r9ty" name="otherGraph" xy="317,344" size="0,0" group="n33_id7g" type="rect"/>
+    <image id="n39_xy6g" name="n39" src="xy6g2r" fileName="res/fenshukuang.png" xy="45,262" group="n33_id7g" scale="0.8,0.8"/>
+    <image id="n40_xy6g" name="n40" src="xy6g2s" fileName="res/敌方头像框遮罩.png" xy="58,272" group="n33_id7g" scale="0.8,0.8"/>
+    <group id="n33_id7g" name="n33" xy="45,262" size="627,210" advanced="true">
+      <gearDisplay controller="mode" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n25_ks3o" name="testBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="275,15" size="150,159">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="返回" titleFontSize="33" icon="ui://xww73zw2pcejh"/>
+    </component>
+    <graph id="n28_bw6u" name="emptyComp" xy="446,168" size="100,100" visible="false" touchable="false" type="rect"/>
+    <image id="n34_xy6g" name="n34" src="xy6g2r" fileName="res/fenshukuang.png" xy="1051,1489" group="n38_xy6g" scale="-0.8,0.8"/>
+    <graph id="n32_r9ty" name="myGraph" xy="674,1593" size="0,0" group="n38_xy6g" type="rect"/>
+    <text id="n11_fcm8" name="myScore" xy="712,1527" size="53,73" group="n38_xy6g" font="ui://8odbecjppcejd" fontSize="55" color="#33ff66" text="0"/>
+    <image id="n36_xy6g" name="n36" src="xy6g2t" fileName="res/己方头像框遮罩.png" xy="904,1501" group="n38_xy6g" scale="0.8,0.8"/>
+    <image id="n35_xy6g" name="n35" src="xy6g2u" fileName="res/？.png" xy="908,1493" group="n38_xy6g" scale="0.8,0.8"/>
+    <group id="n38_xy6g" name="n38" xy="674,1489" size="1004,210" advanced="true">
+      <gearDisplay controller="mode" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n41_xy6g" name="itemComp" src="xy6g2v" fileName="ItemComp.xml" xy="37,1565">
+      <gearDisplay controller="mode" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n42_xy6g" name="myScore1" xy="493,1480" size="53,73" font="ui://8odbecjppcejd" fontSize="55" color="#33ff66" text="0">
+      <gearDisplay controller="mode" pages="1"/>
+    </text>
+    <loader3D id="n46_w5z4" name="turnTip" xy="-51,699" size="1183,506" touchable="false" url="ui://xww73zw2w5z436" animation="" skin="" loop="true">
+      <gearDisplay controller="turnTip" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader3D>
+    <component id="n47_w5z4" name="countdown" src="w5z43x" fileName="CountdownComp.xml" xy="437,0" touchable="false"/>
+    <loader3D id="n52_n7lk" name="itemLoader3D" xy="540,912" pivot="0.5,0.5" anchor="true" size="100,100" touchable="false" animation="" skin="" loop="true"/>
+    <component id="n1_fcm8" name="backBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="0,0" size="150,159">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="返回" titleFontSize="33" icon="ui://xww73zw2pcejh"/>
+    </component>
+    <image id="n56_obfs" name="n56" src="obfs4c" fileName="res/NEW.png" xy="225,952" pivot="0.5,0.5" anchor="true" group="n58_obfs" scale="0.8,0.8" skew="1,1"/>
+    <image id="n57_obfs" name="n57" src="obfs4d" fileName="res/RECORD.png" xy="754,952" pivot="0.5,0.5" anchor="true" group="n58_obfs" scale="0.8,0.8" skew="1,1"/>
+    <group id="n58_obfs" name="n58" xy="-2,880" size="1140,144" advanced="true">
+      <gearDisplay controller="newRecord" pages="1"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Visible" target="n58_obfs" value="true"/>
+    <item time="0" type="XY" target="n58_obfs" tween="true" startValue="-2,880" endValue="-2,588" duration="6" ease="Linear"/>
+    <item time="18" type="Visible" target="n58_obfs" value="false"/>
+    <item time="18" type="XY" target="n58_obfs" value="-2,588"/>
+  </transition>
+</component>

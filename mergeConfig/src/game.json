@@ -1,0 +1,18 @@
+{
+    "create": [
+        -1,
+        0,
+        500,
+        1000,
+        1500,
+        -1,
+        2500,
+        -1,
+        5000
+    ],
+    "reviveElimCount":10,
+    "countdownCount":15,
+    "countdownTime":30,
+    "emActiveScore":100,
+    "emCreateStep":5
+}

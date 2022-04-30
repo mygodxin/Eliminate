@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1007,1013">
+  <controller name="state" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <component id="n1_m1hi" name="frame" src="hy97b" fileName="alert/Frame.xml" xy="0,0" size="1073,1103" controller="top,1,bg,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n2_m1hi" name="contentTextFiled" xy="81,212" size="840,490" fontSize="72" color="#892902" align="center" vAlign="middle" autoSize="none" bold="true" text="ARE YOU SURE YOU WANT TO QUIT THE GAME?">
+      <relation target="" sidePair="center-center,width-width"/>
+    </text>
+    <component id="n3_m1hi" name="leftButton" src="rftl6q" fileName="alert/OkButton.xml" xy="515,771">
+      <gearDisplay controller="state" pages="0,1,3"/>
+      <gearXY controller="state" pages="0,1,3" values="515,771|373,1356|410,880" default="70,930"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <Button title="确定" icon="ui://8odbecjphy972b"/>
+    </component>
+    <component id="n4_m1hi" name="rightButton" src="rftl6p" fileName="alert/NoButton.xml" xy="58,771" size="426,143">
+      <gearDisplay controller="state" pages="0,2,3"/>
+      <gearXY controller="state" pages="0,2,3" values="58,771|82,772|-88,772" default="252,821"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <Button title="NO"/>
+    </component>
+    <image id="n5_rftl" name="n5" src="pon64" fileName="alert/res/menu.png" xy="327,11"/>
+  </displayList>
+</component>

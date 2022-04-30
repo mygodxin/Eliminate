@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1007,1013">
+  <displayList>
+    <image id="n0_hqtu" name="n0" src="hqtu4" fileName="diban.png" pkg="8odbecjp" xy="0,0"/>
+    <image id="n1_hqtu" name="n1" src="hqtud" fileName="res/taitou.png" xy="155,-66"/>
+    <image id="n2_hqtu" name="n2" src="hqtu6" fileName="res/menu.png" xy="327,-17"/>
+    <component id="n3_hqtu" name="n3" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="170,329"/>
+    <component id="n4_hqtu" name="effectBtn" src="hqtuk" fileName="comp/IconButton.xml" xy="183,282">
+      <Button icon="ui://ew1qu1oehqtuh"/>
+    </component>
+    <component id="n5_hqtu" name="musicBtn" src="hqtuk" fileName="comp/IconButton.xml" xy="601,282">
+      <Button icon="ui://ew1qu1oehqtug"/>
+    </component>
+    <component id="n6_hqtu" name="closeButton" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="828,4" size="182,182">
+      <Button icon="ui://ew1qu1oehqtu3"/>
+    </component>
+    <component id="n7_hqtu" name="exitBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="677,654" size="90,89" visible="false">
+      <Button icon="ui://ew1qu1oehqtuf"/>
+    </component>
+    <component id="n8_hqtu" name="ruleBtn1" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="252,539" size="97,97" visible="false">
+      <Button icon="ui://ew1qu1oehqtu2"/>
+    </component>
+    <component id="n9_hqtu" name="suoBtn1" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="252,711" size="97,97">
+      <Button icon="ui://ew1qu1oehqtuc"/>
+    </component>
+    <component id="n10_hqtu" name="ruleBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="391,568" size="146,47" visible="false">
+      <Button icon="ui://ew1qu1oehqtu9"/>
+    </component>
+    <component id="n11_hqtu" name="suoBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="391,740" size="197,47">
+      <Button icon="ui://ew1qu1oehqtu8"/>
+    </component>
+  </displayList>
+</component>

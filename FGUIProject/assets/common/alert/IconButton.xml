@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,70" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n0_h6bv" name="icon" xy="20,20" size="50,30" autoSize="true"/>
+  </displayList>
+  <Button sound="ui://8odbecjphy97i" downEffect="scale" downEffectValue="1.10"/>
+  <relation target="n0_h6bv" sidePair="width-width,height-height"/>
+</component>

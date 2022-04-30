@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="398,79">
+  <displayList>
+    <text id="n5_fcm8" name="money" xy="199,6" size="199,73" fontSize="55" color="#33ff00" autoSize="none" text="win"/>
+    <loader id="n6_pcej" name="n6" xy="-52,-19" size="117,126" url="ui://8odbecjppcej1"/>
+  </displayList>
+</component>

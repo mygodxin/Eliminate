@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="533,179" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n11_pon6" name="n11" src="pon6k" fileName="anniu.png" xy="0,0"/>
+    <text id="n6_c4z7" name="title" xy="170,41" size="88,94" fontSize="72" color="#ffffff" align="right" vAlign="middle" bold="true" strokeColor="#000000" text="+9"/>
+    <loader id="n9_c4z7" name="icon" xy="259,33" size="137,110" url="ui://8odbecjppcej1" fill="scale" autoSize="true">
+      <relation target="n6_c4z7" sidePair="left-right"/>
+    </loader>
+    <image id="n12_pon6" name="n12" src="pon6l" fileName="res/guanggao.png" xy="40,29"/>
+  </displayList>
+  <Button/>
+</component>

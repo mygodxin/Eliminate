@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n7_w7ki" name="n7" src="hqtu4" fileName="diban.png" pkg="8odbecjp" xy="36,453"/>
+    <component id="n0_s5i3" name="videoBtn" src="pcejq" fileName="btn/StartBtn.xml" pkg="8odbecjp" xy="263,1099" controller="tip,0">
+      <Button title="COLLECT" icon="ui://8odbecjphy974z"/>
+    </component>
+    <component id="n1_s5i3" name="noBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="397,1301" size="266,58">
+      <Button title="NO THANKS" icon="ui://8odbecjphqtu7"/>
+    </component>
+    <text id="n5_s5i3" name="n5" xy="220,806" size="637,376" fontSize="60" color="#752f00" align="center" vAlign="middle" autoSize="none" text="Score 10 times in the first 5 times"/>
+    <image id="n6_s5i3" name="n6" src="pcejk" fileName="res/bobiao.png" xy="332,602" size="414,285" aspect="true"/>
+    <image id="n8_w7ki" name="n8" src="hqtue" fileName="taitou2.png" pkg="8odbecjp" xy="81,403"/>
+    <image id="n9_w7ki" name="n9" src="w7kit" fileName="res/SCORE(1).png" xy="295,459"/>
+  </displayList>
+</component>

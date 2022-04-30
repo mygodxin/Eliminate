@@ -1,0 +1,20 @@
+
+HuiHeTiShi.png
+size: 680,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_she_xian_glow_a
+  rotate: false
+  xy: 614, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+your turn
+  rotate: false
+  xy: 2, 2
+  size: 610, 105
+  orig: 610, 105
+  offset: 0, 0
+  index: -1

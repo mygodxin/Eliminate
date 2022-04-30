@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8odbecjp">
+  <resources>
+    <component id="m4ut2" name="IconButton.xml" path="/" exported="true"/>
+    <component id="fcm89" name="LabelButton.xml" path="/" exported="true"/>
+    <component id="hy97a" name="Alert.xml" path="/alert/" exported="true"/>
+    <component id="hy97b" name="Frame.xml" path="/alert/"/>
+    <component id="hy97h" name="IconButton.xml" path="/alert/" exported="true"/>
+    <sound id="hy97i" name="btn_menu.mp3" path="/alert/" exported="true"/>
+    <sound id="hy97k" name="btn_return.mp3" path="/alert/" exported="true"/>
+    <component id="hy972a" name="LabelButton.xml" path="/alert/" exported="true"/>
+    <image id="hy972b" name="黄色.png" path="/alert/res/"/>
+    <image id="hy974r" name="包.png" path="/alert/temp/"/>
+    <image id="hy974s" name="蛋.png" path="/alert/temp/"/>
+    <image id="hy974t" name="即.png" path="/alert/temp/"/>
+    <image id="hy974u" name="金.png" path="/alert/temp/"/>
+    <image id="hy974v" name="礼.png" path="/alert/temp/"/>
+    <image id="hy974w" name="立.png" path="/alert/temp/"/>
+    <image id="hy974x" name="买.png" path="/alert/temp/"/>
+    <image id="hy974y" name="礼包.png" path="/alert/temp/"/>
+    <image id="hy974z" name="绿色.png" path="/alert/res/"/>
+    <component id="hy9750" name="Tip.xml" path="/tip/" exported="true"/>
+    <image id="hy9751" name="di.png" path="/tip/" scale9grid="151,0,2,39"/>
+    <component id="g19db" name="MonayComp.xml" path="/" exported="true"/>
+    <component id="pcejq" name="CollectBtn.xml" path="/btn/" exported="true"/>
+    <image id="pcejm" name="collect.png" path="/btn/"/>
+    <image id="pcejo" name="guanggao.png" path="/btn/"/>
+    <image id="pcej1" name="meijincon.png" path="/comp/" exported="true"/>
+    <image id="pceje" name="shujukuang.png" path="/comp/" scale="9grid" scale9grid="121,48,244,42"/>
+    <component id="pcejp" name="MonayComp.xml" path="/comp/" exported="true"/>
+    <image id="pcej52" name="biaoqian.png" path="/btn/"/>
+    <image id="pcej5" name="qipan.png" path="/res/" exported="true"/>
+    <image id="pceji" name="anniu.png" path="/res/" exported="true"/>
+    <image id="hqtu56" name="A_0.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu57" name="A_1.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu58" name="A_2.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu59" name="A_3.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu5a" name="A_4.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu5b" name="A_5.png" path="/res/skin/A/" exported="true"/>
+    <image id="hqtu5c" name="E_3.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5d" name="E_5.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5e" name="E_4.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5f" name="E_1.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5g" name="E_0.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5h" name="E_2.png" path="/res/skin/E/" exported="true"/>
+    <image id="hqtu5i" name="C_2.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5j" name="C_0.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5k" name="C_1.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5l" name="C_3.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5m" name="C_5.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5n" name="C_4.png" path="/res/skin/C/" exported="true"/>
+    <image id="hqtu5o" name="D_0.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5p" name="D_1.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5q" name="D_3.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5r" name="D_5.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5s" name="D_4.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5t" name="D_2.png" path="/res/skin/D/" exported="true"/>
+    <image id="hqtu5u" name="H_3.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu5v" name="H_5.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu5w" name="H_4.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu5x" name="H_2.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu5y" name="H_0.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu5z" name="H_1.png" path="/res/skin/H/" exported="true"/>
+    <image id="hqtu60" name="F_3.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu61" name="F_5.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu62" name="F_4.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu63" name="F_2.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu64" name="F_0.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu65" name="F_1.png" path="/res/skin/F/" exported="true"/>
+    <image id="hqtu66" name="I_0.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu67" name="I_3.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu68" name="I_5.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu69" name="I_4.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu6a" name="I_2.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu6b" name="I_1.png" path="/res/skin/I/" exported="true"/>
+    <image id="hqtu6c" name="B_0.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6d" name="B_1.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6e" name="B_3.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6f" name="B_5.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6g" name="B_4.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6h" name="B_2.png" path="/res/skin/B/" exported="true"/>
+    <image id="hqtu6i" name="G_3.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu6j" name="G_5.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu6k" name="G_4.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu6l" name="G_2.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu6m" name="G_0.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu6n" name="G_1.png" path="/res/skin/G/" exported="true"/>
+    <image id="hqtu7" name="NO THANKS.png" path="/btn/" exported="true"/>
+    <component id="pon66o" name="EmptyComp.xml" path="/comp/" exported="true"/>
+    <font id="pcejd" name="ScoreFont.fnt" path="/font/" exported="true"/>
+    <image id="w1nzf" name="zzz_10.png" path="/font/"/>
+    <image id="w1nzg" name="zzz_11.png" path="/font/"/>
+    <image id="w1nzh" name="zzz_12.png" path="/font/"/>
+    <image id="w1nzi" name="zzz_02.png" path="/font/"/>
+    <image id="w1nzj" name="zzz_03.png" path="/font/"/>
+    <image id="w1nzk" name="zzz_04.png" path="/font/"/>
+    <image id="w1nzl" name="zzz_05.png" path="/font/"/>
+    <image id="w1nzm" name="zzz_06.png" path="/font/"/>
+    <image id="w1nzn" name="zzz_07.png" path="/font/"/>
+    <image id="w1nzo" name="zzz_08.png" path="/font/"/>
+    <image id="w1nzp" name="zzz_09.png" path="/font/"/>
+    <image id="pon61" name="diban.png" path="/alert/res/"/>
+    <image id="pon62" name="lanse.png" path="/alert/res/" exported="true"/>
+    <image id="pon63" name="lvse.png" path="/alert/res/" exported="true"/>
+    <image id="pon64" name="menu.png" path="/alert/res/"/>
+    <image id="pon65" name="menu2.png" path="/alert/res/"/>
+    <image id="pon66" name="no.png" path="/alert/res/"/>
+    <image id="pon67" name="ok .png" path="/alert/res/"/>
+    <image id="pon68" name="退出.jpg" path="/alert/res/"/>
+    <component id="rftl6p" name="NoButton.xml" path="/alert/"/>
+    <component id="rftl6q" name="OkButton.xml" path="/alert/"/>
+    <image id="hqtu2" name="dikuang.png" path="/" exported="true"/>
+    <image id="hqtu4" name="diban.png" path="/" exported="true"/>
+    <image id="hqtue" name="taitou2.png" path="/" exported="true"/>
+    <misc id="pon6o" name="HuanZhuan.atlas.txt" path="/res/spine/qiu/"/>
+    <image id="pon6p" name="HuanZhuan.png" path="/res/spine/qiu/"/>
+    <spine id="pon6n" name="HuanZhuan.json" path="/res/spine/qiu/" exported="true" width="543" height="359" require="pon6o,pon6p" atlasNames="HuanZhuan" anchor="292,128"/>
+    <component id="qvbg6r" name="StartBtn1.xml" path="/btn/" exported="true"/>
+    <image id="qvbg6s" name="PLAY.png" path="/btn/"/>
+    <image id="bw6uu" name="bjPiFu_A.png" path="/res/bg/" exported="true"/>
+    <image id="bw6uv" name="bjPiFu_B.png" path="/res/bg/" exported="true"/>
+    <image id="bw6uw" name="bjPiFu_C.png" path="/res/bg/" exported="true"/>
+    <image id="bw6ux" name="bjPiFu_D.png" path="/res/bg/" exported="true"/>
+    <image id="bw6uy" name="bjPiFu_E.png" path="/res/bg/" exported="true"/>
+    <image id="bw6uz" name="bjPiFu_F.png" path="/res/bg/" exported="true"/>
+    <image id="bw6u10" name="bjPiFu_G.png" path="/res/bg/" exported="true"/>
+    <image id="bw6u11" name="bjPiFu_H.png" path="/res/bg/" exported="true"/>
+    <image id="bw6u12" name="bjPiFu_I.png" path="/res/bg/" exported="true"/>
+    <misc id="bw6u6u" name="bj_huanzhuang.atlas.txt" path="/res/spine/bg/"/>
+    <image id="bw6u6v" name="bj_huanzhuang.png" path="/res/spine/bg/"/>
+    <spine id="bw6u6t" name="bj_huanzhuang.json" path="/res/spine/bg/" exported="true" width="725" height="756" require="bw6u6u,bw6u6v" atlasNames="bj_huanzhuang" anchor="376,348"/>
+    <misc id="rtxr6x" name="shouzhi.atlas.txt" path="/res/spine/shouzhi/"/>
+    <image id="rtxr6y" name="shouzhi.png" path="/res/spine/shouzhi/"/>
+    <spine id="rtxr6w" name="shouzhi.json" path="/res/spine/shouzhi/" exported="true" width="393" height="587" require="rtxr6x,rtxr6y" atlasNames="shouzhi" anchor="264,74"/>
+    <image id="s2el6z" name="anniu2.png" path="/res/" exported="true"/>
+    <image id="s2el70" name="ENDLESS MODE.png" path="/btn/"/>
+    <image id="s2el71" name="VS MODE.png" path="/btn/"/>
+    <component id="s2el72" name="ModeBtn.xml" path="/btn/" exported="true"/>
+    <component id="xy6g73" name="iconButton1.xml" path="/" exported="true"/>
+    <image id="xy6g74" name="daoju2.png" path="/res/item/" exported="true"/>
+    <image id="xy6g75" name="daoju3.png" path="/res/item/" exported="true"/>
+    <image id="xy6g76" name="宝石.png" path="/res/item/" exported="true"/>
+    <image id="xy6g77" name="daoju1.png" path="/res/item/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

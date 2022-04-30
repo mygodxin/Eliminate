@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n3_pcej" name="n3" src="pcejj" fileName="res/bj.jpg" xy="0,0"/>
+    <loader3D id="n23_hqtu" name="bg" xy="-253,468" size="1650,953" url="ui://x7dcax61hqtuo" animation="" skin="" loop="true"/>
+    <component id="n1_fcm8" name="personBtn" src="qvbg6r" fileName="btn/StartBtn1.xml" pkg="8odbecjp" xy="273,1518" size="533,179">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="开始游戏" icon="ui://8odbecjppceji"/>
+    </component>
+    <component id="n2_g19d" name="moneyComp" src="pcejp" fileName="comp/MonayComp.xml" pkg="8odbecjp" xy="605,0">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n4_pcej" name="adBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="50,1219" size="191,193">
+      <relation target="" sidePair="middle-middle,left-left"/>
+      <Button icon="ui://x7dcax61pcejh"/>
+    </component>
+    <component id="n5_pcej" name="skinBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="839,1219" size="191,193">
+      <relation target="" sidePair="middle-middle,right-right"/>
+      <Button icon="ui://x7dcax61pcejf"/>
+    </component>
+    <component id="n15_pcej" name="videoBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="133,140" size="813,535">
+      <Button icon="ui://x7dcax61pon6s"/>
+    </component>
+    <component id="n22_pcej" name="setBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="0,0" size="152,159" visible="false">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button icon="ui://x7dcax61pcejd"/>
+    </component>
+    <component id="n24_s2el" name="fightBtn" src="s2el72" fileName="btn/ModeBtn.xml" pkg="8odbecjp" xy="270,1277" size="533,179">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="开始游戏" icon="ui://8odbecjppceji"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="sur69ckw">
+  <resources>
+    <component id="ozwpb" name="PKWin.xml" path="/" exported="true"/>
+    <misc id="rsrmh" name="PK.atlas.txt" path="/res/"/>
+    <image id="rsrmi" name="PK.png" path="/res/"/>
+    <spine id="rsrmg" name="PK.json" path="/res/" width="1578" height="2669" require="rsrmh,rsrmi" atlasNames="PK" anchor="776,1350"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

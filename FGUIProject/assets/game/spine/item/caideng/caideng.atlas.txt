@@ -1,0 +1,48 @@
+
+caideng.png
+size: 1462,1331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_DF_13
+  rotate: false
+  xy: 1332, 1201
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+daoju2
+  rotate: false
+  xy: 1332, 1080
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+fangshegaung
+  rotate: true
+  xy: 2, 2
+  size: 1327, 1328
+  orig: 1327, 1328
+  offset: 0, 0
+  index: -1
+gaosu
+  rotate: false
+  xy: 1332, 779
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+qiu 1
+  rotate: false
+  xy: 1332, 878
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+qiu 2
+  rotate: false
+  xy: 1332, 978
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1

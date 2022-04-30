@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="508,195" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n5_hqtu" name="n5" xy="54,7" size="400,180" url="ui://e5dagln6hqtu6" align="center" vAlign="middle" autoSize="true">
+      <gearIcon controller="button" pages="0,1" values="ui://e5dagln6hqtu6|ui://e5dagln6hqtu8"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n3_hqtu" name="icon" xy="144,67" size="220,61" alpha="0.6" url="ui://e5dagln6hqtu4" autoSize="true">
+      <gearLook controller="button" pages="0" values="0.6,0,0,1" default="1,0,0,1"/>
+    </loader>
+    <text id="n4_hqtu" name="title" xy="150,66" size="40,19" fontSize="12" text=""/>
+  </displayList>
+  <Button mode="Radio" downEffect="scale" downEffectValue=".8"/>
+</component>

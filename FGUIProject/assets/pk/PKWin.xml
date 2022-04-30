@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <loader3D id="n5_b3y2" name="pkLoader3D" xy="-249,-374" size="1578,2669" url="ui://sur69ckwrsrmg" animation="" skin="" loop="true"/>
+  </displayList>
+</component>

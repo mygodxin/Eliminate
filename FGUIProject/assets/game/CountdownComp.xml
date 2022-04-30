@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="205,100" extention="Label">
+  <displayList>
+    <image id="n0_w5z4" name="n0" src="w5z43z" fileName="res/倒计时框.png" xy="0,0"/>
+    <image id="n1_w5z4" name="n1" src="w5z43y" fileName="res/倒计时.png" xy="8,7"/>
+    <text id="n2_w5z4" name="title" xy="86,15" size="121,58" font="ui://xww73zw2w5z43k" fontSize="54" text="01s"/>
+  </displayList>
+</component>

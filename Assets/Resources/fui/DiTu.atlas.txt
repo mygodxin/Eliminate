@@ -1,0 +1,195 @@
+
+DiTu.png
+size: 1200,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 1172, 234
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 132, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1172, 206
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 262, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 1172, 178
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 392, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 392, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 1172, 150
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 522, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 522, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 1172, 122
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 652, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 652, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 1172, 94
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 782, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 782, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 1172, 66
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 912, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 912, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 1172, 38
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+i1
+  rotate: false
+  xy: 1042, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+i2
+  rotate: false
+  xy: 1042, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+i3
+  rotate: false
+  xy: 1172, 10
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

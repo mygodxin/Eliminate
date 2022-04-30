@@ -1,0 +1,118 @@
+
+DaoJu.png
+size: 2001,1335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_DF_13
+  rotate: false
+  xy: 1683, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ShanDian
+  rotate: false
+  xy: 1331, 223
+  size: 118, 465
+  orig: 118, 465
+  offset: 0, 0
+  index: -1
+baozha-DA
+  rotate: false
+  xy: 1451, 76
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+daoju2
+  rotate: false
+  xy: 1331, 102
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+daoju3
+  rotate: true
+  xy: 1683, 25
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+fangshegaung
+  rotate: false
+  xy: 2, 5
+  size: 1327, 1328
+  orig: 1327, 1328
+  offset: 0, 0
+  index: -1
+fangsheguang_00184
+  rotate: false
+  xy: 1451, 432
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_she_xian_glow_a
+  rotate: false
+  xy: 1444, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gaosu
+  rotate: false
+  xy: 1943, 160
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+path_00090
+  rotate: false
+  xy: 1813, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qiu 1
+  rotate: false
+  xy: 1331, 2
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+qiu 2
+  rotate: false
+  xy: 1808, 27
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+shandianxi
+  rotate: true
+  xy: 1451, 308
+  size: 122, 321
+  orig: 122, 321
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 1709, 432
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 1331, 690
+  size: 643, 643
+  orig: 643, 643
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 1774, 259
+  size: 225, 171
+  orig: 225, 171
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="138,140" extention="Label">
+  <controller name="cd" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_xy6g" name="n0" src="xy6g2w" fileName="res/daojukuang2.png" xy="0,0"/>
+    <loader id="n1_xy6g" name="icon" xy="0,0" size="138,138" url="ui://8odbecjpxy6g75" align="center" vAlign="middle"/>
+    <image id="n5_rq8n" name="imgCd" src="xy6g2w" fileName="res/daojukuang2.png" xy="-1,0" size="142,144" color="#000000" fillMethod="radial360" fillClockwise="false">
+      <gearDisplay controller="cd" pages="1"/>
+    </image>
+    <image id="n3_xy6g" name="n3" src="xy6g2z" fileName="res/小圆点.png" xy="87,-24" size="76,56"/>
+    <text id="n2_xy6g" name="title" xy="86,-28" size="76,55" fontSize="36" color="#673110" align="center" vAlign="middle" autoSize="none" text="55">
+      <relation target="n3_xy6g" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n6_rq8n" name="cdTextFiled" xy="27,41" size="82,58" font="ui://xww73zw2w5z43k" fontSize="54" color="#ffffff" align="center" vAlign="middle" text="30">
+      <gearDisplay controller="cd" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

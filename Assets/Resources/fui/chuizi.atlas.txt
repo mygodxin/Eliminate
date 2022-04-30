@@ -1,0 +1,41 @@
+
+chuizi.png
+size: 905,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha-DA
+  rotate: false
+  xy: 647, 157
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+daoju3
+  rotate: false
+  xy: 777, 32
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+path_00090
+  rotate: false
+  xy: 647, 27
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 647, 389
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 2, 2
+  size: 643, 643
+  orig: 643, 643
+  offset: 0, 0
+  index: -1

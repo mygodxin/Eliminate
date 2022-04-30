@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n1_xy6g" name="n1" src="xy6gw" fileName="res/REVIVE.png" xy="224,349">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n2_xy6g" name="n2" src="xy6gy" fileName="kuang.png" xy="46,911">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n3_xy6g" name="n3" xy="203,994" size="660,79" fontSize="60" color="#673110" align="center" vAlign="middle" text="Resurrect immediately">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n4_xy6g" name="reviveBtn" src="xy6g73" fileName="iconButton1.xml" pkg="8odbecjp" xy="273,1104">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://savhvpxmxy6gx"/>
+    </component>
+    <component id="n5_xy6g" name="closeBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="407,1412" size="266,58">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://8odbecjphqtu7"/>
+    </component>
+  </displayList>
+</component>

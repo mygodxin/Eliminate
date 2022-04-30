@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e5dagln6">
+  <resources>
+    <component id="hqtu0" name="SkinWin.xml" path="/" exported="true"/>
+    <image id="hqtu1" name="bofang.png" path="/res/"/>
+    <image id="hqtu3" name="guanggao_anniu.png" path="/res/"/>
+    <image id="hqtu4" name="sword.png" path="/res/"/>
+    <image id="hqtu5" name="trails.png" path="/res/"/>
+    <image id="hqtu6" name="weixuanzhong.png" path="/res/"/>
+    <image id="hqtu7" name="xiaokuang.png" path="/res/"/>
+    <image id="hqtu8" name="xuanzhong.png" path="/res/"/>
+    <image id="hqtu9" name="换皮.jpg" path="/res/"/>
+    <image id="hqtua" name="换皮2.jpg" path="/res/"/>
+    <component id="hqtub" name="ToggleButton.xml" path="/comp/"/>
+    <image id="hqtuc" name="fanhui.png" path="/res/"/>
+    <image id="hqtud" name="guang.png" path="/res/"/>
+    <component id="hqtue" name="ItemRender.xml" path="/"/>
+    <image id="ecmef" name="sel.jpg" path="/res/"/>
+    <component id="c4z7g" name="MoneyButton.xml" path="/comp/"/>
+    <image id="c4z7h" name="anniu1.png" path="/comp/" scale="9grid" scale9grid="52,44,104,88"/>
+    <component id="lu22i" name="SkinPreview.xml" path="/" exported="true"/>
+    <component id="pon6j" name="videoButton.xml" path="/comp/"/>
+    <image id="pon6k" name="anniu.png" path="/"/>
+    <image id="pon6l" name="guanggao.png" path="/res/"/>
+    <image id="pon6m" name="kuang.png" path="/res/"/>
+    <image id="w7kin" name="xiaokuang2.png" path="/res/"/>
+    <image id="r9tyo" name="xiaokuang3.png" path="/res/"/>
+    <image id="id7gp" name="src=http___zhiboadmin.idyoga.cn_image_icon_image_2019_08_5d6783125c82d.gif&amp;refer=http___zhiboadmin.idyoga.jpg" path="/res/"/>
+    <component id="id7gq" name="SkinGetWin.xml" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <controller name="sel" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_o218" name="icon" xy="0,0" size="104,104" url="ui://8odbecjphqtu56" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n1_st7l" name="sel" xy="-27,-27" size="158,158" url="ui://xww73zw2dzg718" fill="scaleFree" autoSize="true">
+      <gearDisplay controller="sel" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <text id="n2_dzg7" name="title" xy="21,19" size="72,79" fontSize="60" text="15">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <loader3D id="n13_nep3" name="icon3D" xy="0,0" size="104,104" url="ui://xww73zw2nep31s" animation="" skin="" loop="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader3D>
+  </displayList>
+  <relation target="n0_o218" sidePair="width-width,height-height"/>
+</component>

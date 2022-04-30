@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="426,143" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n8_c4z7" name="n8" src="pon63" fileName="alert/res/lvse.png" pkg="8odbecjp" xy="0,0"/>
+    <text id="n6_c4z7" name="title" xy="-11,64" size="172,73" fontSize="55" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="99"/>
+    <loader id="n9_c4z7" name="icon" xy="15,-1" size="104,82" url="ui://8odbecjppcej1" fill="scale"/>
+    <text id="n10_pon6" name="title" xy="116,7" size="292,122" fontSize="55" color="#ffffff" align="center" vAlign="middle" leading="-20" autoSize="none" bold="true" strokeColor="#000000" text="UNLOCK&#xA;RANDOM"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="exl1mhth">
+  <resources>
+    <component id="hqtu0" name="LoadingScene.xml" path="/" exported="true"/>
+    <image id="hqtu1" name="bj.png" path="/res/"/>
+    <image id="hqtu2" name="jindutiao1.png" path="/res/"/>
+    <image id="hqtu3" name="jindutiao2.png" path="/res/"/>
+    <image id="hqtu4" name="logo.png" path="/res/"/>
+    <image id="hqtu5" name="qiu.png" path="/res/"/>
+    <image id="hqtu6" name="qiu1.png" path="/res/"/>
+    <image id="hqtu7" name="qiu2.png" path="/res/"/>
+    <image id="hqtu8" name="加载效果图.jpg" path="/res/"/>
+    <component id="hqtu9" name="ProgressBar1.xml" path="/"/>
+    <misc id="hqtuc" name="xc_JiaZai.atlas.txt" path="/spine/"/>
+    <image id="hqtud" name="xc_JiaZai.png" path="/spine/"/>
+    <spine id="hqtub" name="xc_JiaZai.json" path="/spine/" width="1500" height="2116" require="hqtuc,hqtud" atlasNames="xc_JiaZai" anchor="843,1156"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

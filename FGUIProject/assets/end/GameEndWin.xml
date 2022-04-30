@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="winCtrl" pages="0,胜利,1,失败" selected="0"/>
+  <controller name="skin" pages="0,,1," selected="1"/>
+  <controller name="type" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n10_pcej" name="n10" src="pcej0" fileName="res/diban.png" xy="41,212"/>
+    <loader id="n11_pcej" name="resultTxt" xy="201,167" size="681,224" url="ui://savhvpxmpcej3" align="center" vAlign="middle">
+      <gearIcon controller="winCtrl" pages="0,1" values="ui://savhvpxmpcej3|ui://savhvpxmpcej4"/>
+    </loader>
+    <loader id="n0_g19d" name="resultTxt" xy="206,42" size="681,224" url="ui://savhvpxmhqtus" align="center" vAlign="middle">
+      <gearIcon controller="winCtrl" pages="0,1" values="ui://savhvpxmhqtus|ui://savhvpxmpcej8"/>
+    </loader>
+    <text id="n1_g19d" name="scoreTip" xy="445,364" size="227,79" fontSize="60" color="#002175" align="center" text="Score：">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n2_g19d" name="scoreTxt" xy="513,453" size="53,73" font="ui://8odbecjppcejd" fontSize="80" color="#66ff00" align="center" vAlign="middle" text="0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n3_g19d" name="scoreTxt" src="pcej6" fileName="res/rewartd.png" xy="368,611"/>
+    <loader id="n5_g19d" name="skinLoader" xy="297,686" size="486,356" visible="false" url="ui://8odbecjppcej5" autoSize="true" fillMethod="radial360">
+      <gearDisplay controller="skin" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader3D id="n17_nep3" name="skinLoader3D" xy="136,507" size="543,359" url="ui://8odbecjppon6n" animation="" skin="" loop="true">
+      <gearDisplay controller="skin" pages="1"/>
+      <gearXY controller="type" pages="0,1" values="236,696|136,507"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader3D>
+    <image id="n15_hqtu" name="n15" src="pcej2" fileName="res/kuang.png" xy="382,874">
+      <gearDisplay controller="skin" pages="1"/>
+    </image>
+    <text id="n12_pcej" name="skinTxt" xy="442,868" size="196,94" fontSize="72" color="#ffffff" align="center" text="0/100">
+      <gearDisplay controller="skin" pages="1"/>
+    </text>
+    <component id="n16_hqtu" name="moneyComp" src="hqtur" fileName="MoneyComp.xml" xy="540,1023" pivot="0.5,0" anchor="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n8_g19d" name="videoBtn" src="pcejq" fileName="btn/StartBtn.xml" pkg="8odbecjp" xy="273,1198" controller="tip,1">
+      <Button title="COLLECT" icon="ui://8odbecjphy974z"/>
+    </component>
+    <component id="n9_g19d" name="noBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="407,1400" size="266,58">
+      <Button title="NO THANKS" icon="ui://8odbecjphqtu7"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n0_hqtu" name="n0" src="hqtu1" fileName="res/bj.png" xy="0,0"/>
+    <component id="n2_hqtu" name="bar" src="hqtu9" fileName="ProgressBar1.xml" xy="129,1537">
+      <ProgressBar value="48" max="100"/>
+    </component>
+    <loader3D id="n3_hqtu" name="logo" xy="-278,-388" size="1500,2116" url="ui://exl1mhthhqtub" animation="" skin="" loop="true"/>
+  </displayList>
+</component>

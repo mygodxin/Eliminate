@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <loader id="n0_r9ty" name="bg" xy="0,0" size="1080,1920" url="ui://xww73zw2qvbg1v">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <graph id="n1_r9ty" name="graph" xy="490,910" size="100,100" type="rect"/>
+  </displayList>
+</component>

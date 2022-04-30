@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1007,1013" extention="Label">
+  <controller name="top" exported="true" pages="1,,0," selected="0"/>
+  <controller name="bg" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n7_m1hi" name="closeButton" src="hy97h" fileName="alert/IconButton.xml" xy="1000,-36" size="61,79" visible="false">
+      <gearDisplay controller="top" pages="1"/>
+      <relation target="" sidePair="right-right"/>
+      <Button icon="ui://8odbecjphy97j" sound="ui://8odbecjphy97k"/>
+    </component>
+    <image id="n8_rftl" name="n8" src="pon61" fileName="alert/res/diban.png" xy="0,0"/>
+    <image id="n9_rftl" name="n9" src="pon65" fileName="alert/res/menu2.png" xy="155,-39"/>
+  </displayList>
+</component>

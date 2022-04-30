@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xww73zw2">
+  <resources>
+    <component id="fcm80" name="GameScene.xml" path="/" exported="true"/>
+    <image id="m4ut1" name="bg.png" path="/res/"/>
+    <image id="m4ut5" name="color_4.png" path="/res/skin/" exported="true"/>
+    <image id="m4ut7" name="color_3.png" path="/res/skin/" exported="true"/>
+    <image id="m4ut6" name="color_1.png" path="/res/skin/" exported="true"/>
+    <image id="m4ut4" name="color_0.png" path="/res/skin/" exported="true"/>
+    <image id="m4ut8" name="color_2.png" path="/res/skin/" exported="true"/>
+    <image id="m4ut3" name="color_5.png" path="/res/skin/" exported="true"/>
+    <component id="o2182" name="Grid.xml" path="/comp/" exported="true"/>
+    <image id="st7l9" name="sel.jpg" path="/res/"/>
+    <image id="pcejc" name="9.png" path="/res/"/>
+    <image id="pcejd" name="0123456789.png" path="/res/"/>
+    <image id="pceje" name="beishu_diban.png" path="/res/"/>
+    <image id="pcejf" name="bianjiao.png" path="/res/"/>
+    <image id="pcejg" name="bj.jpg" path="/res/" scale="9grid" scale9grid="24,22,48,44"/>
+    <image id="pcejh" name="fanhui.png" path="/res/"/>
+    <image id="pceji" name="kuang1.png" path="/res/"/>
+    <image id="pcejj" name="kuang2.png" path="/res/"/>
+    <image id="pcejk" name="qipan.png" path="/res/"/>
+    <image id="pcejl" name="rival_.png" path="/res/"/>
+    <image id="pcejm" name="X.png" path="/res/"/>
+    <image id="pcejt" name="xx.png" path="/res/" scale9grid="189,283,378,566"/>
+    <image id="pceju" name="your_.png" path="/res/"/>
+    <image id="pcejv" name="游戏界面效果图.jpg" path="/res/"/>
+    <image id="pcejw" name="0.png" path="/res/"/>
+    <image id="pcejx" name="1.png" path="/res/"/>
+    <image id="pcejy" name="2.png" path="/res/"/>
+    <image id="pcejz" name="3.png" path="/res/"/>
+    <image id="pcej10" name="4.png" path="/res/"/>
+    <image id="pcej11" name="5.png" path="/res/"/>
+    <image id="pcej12" name="6.png" path="/res/"/>
+    <image id="pcej13" name="7.png" path="/res/"/>
+    <image id="pcej14" name="8.png" path="/res/"/>
+    <image id="dzg718" name="kuang.png" path="/res/"/>
+    <misc id="nep31h" name="xiaochutx.atlas.txt" path="/spine/bz/"/>
+    <image id="nep31i" name="xiaochutx.png" path="/spine/bz/"/>
+    <spine id="nep31g" name="xiaochutx.json" path="/spine/bz/" exported="true" width="403" height="403" require="nep31h,nep31i" atlasNames="xiaochutx" anchor="201,201"/>
+    <misc id="nep31t" name="XianChuQiu.atlas.txt" path="/spine/xc/"/>
+    <image id="nep31u" name="XianChuQiu.png" path="/spine/xc/"/>
+    <spine id="nep31s" name="XianChuQiu.json" path="/spine/xc/" exported="true" width="104" height="104" require="nep31t,nep31u" atlasNames="XianChuQiu" anchor="52,52"/>
+    <image id="qvbg1v" name="bjA.jpg" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg1w" name="bjB.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg1x" name="bjC.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg1y" name="bjD.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg1z" name="bjE.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg20" name="bjF.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg21" name="bjG.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg22" name="bjH.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg23" name="bjI.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg24" name="qipanA.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg25" name="qipanB.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg26" name="qipanC.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg27" name="qipanD.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg28" name="qipanE.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg29" name="qipanF.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg2a" name="qipanG.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg2b" name="qipanH.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg2c" name="qipanI.png" path="/res/游戏界面换装/" exported="true"/>
+    <image id="qvbg2d" name="效果图B.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2e" name="效果图C.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2f" name="效果图D.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2g" name="效果图E.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2h" name="效果图F.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2i" name="效果图G.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2j" name="效果图H.jpg" path="/res/游戏界面换装/"/>
+    <image id="qvbg2k" name="效果图I.jpg" path="/res/游戏界面换装/"/>
+    <component id="rtxr2l" name="Component1.xml" path="/spine/"/>
+    <misc id="tqg12n" name="DiTu.atlas.txt" path="/spine/map/"/>
+    <image id="tqg12o" name="DiTu.png" path="/spine/map/"/>
+    <spine id="tqg12m" name="DiTu.json" path="/spine/map/" exported="true" width="1194" height="1194" require="tqg12n,tqg12o" atlasNames="DiTu" anchor="597,597"/>
+    <component id="xy6g2p" name="ListComp.xml" path="/"/>
+    <component id="xy6g2q" name="GridComp.xml" path="/"/>
+    <image id="xy6g2r" name="fenshukuang.png" path="/res/"/>
+    <image id="xy6g2s" name="敌方头像框遮罩.png" path="/res/"/>
+    <image id="xy6g2t" name="己方头像框遮罩.png" path="/res/"/>
+    <image id="xy6g2u" name="？.png" path="/res/"/>
+    <component id="xy6g2v" name="ItemComp.xml" path="/"/>
+    <image id="xy6g2w" name="daojukuang2.png" path="/res/"/>
+    <image id="xy6g2x" name="daojukuang.png" path="/res/" scale="9grid" scale9grid="42,44,84,88"/>
+    <component id="xy6g2y" name="ItemRender.xml" path="/"/>
+    <image id="xy6g2z" name="小圆点.png" path="/res/"/>
+    <misc id="w5z434" name="DaoJu.atlas.txt" path="/spine/item/"/>
+    <image id="w5z435" name="DaoJu.png" path="/spine/item/"/>
+    <spine id="w5z433" name="DaoJu.json" path="/spine/item/" exported="true" width="687" height="1331" require="w5z434,w5z435" atlasNames="DaoJu" anchor="329,1174"/>
+    <misc id="w5z437" name="HuiHeTiShi.atlas.txt" path="/spine/turntip/"/>
+    <image id="w5z438" name="HuiHeTiShi.png" path="/spine/turntip/"/>
+    <spine id="w5z436" name="HuiHeTiShi.json" path="/spine/turntip/" exported="true" width="1183" height="506" require="w5z437,w5z438" atlasNames="HuiHeTiShi" anchor="605,248"/>
+    <image id="w5z439" name="0.png" path="/font/countdown/"/>
+    <image id="w5z43a" name="1.png" path="/font/countdown/"/>
+    <image id="w5z43b" name="2.png" path="/font/countdown/"/>
+    <image id="w5z43c" name="3.png" path="/font/countdown/"/>
+    <image id="w5z43d" name="4.png" path="/font/countdown/"/>
+    <image id="w5z43e" name="5.png" path="/font/countdown/"/>
+    <image id="w5z43f" name="6.png" path="/font/countdown/"/>
+    <image id="w5z43g" name="7.png" path="/font/countdown/"/>
+    <image id="w5z43h" name="8.png" path="/font/countdown/"/>
+    <image id="w5z43i" name="9.png" path="/font/countdown/"/>
+    <image id="w5z43j" name="10.png" path="/font/countdown/"/>
+    <font id="w5z43k" name="CountdownFont.fnt" path="/font/countdown/" exported="true"/>
+    <image id="w5z43l" name="0.png" path="/font/countdown1/"/>
+    <image id="w5z43m" name="1.png" path="/font/countdown1/"/>
+    <image id="w5z43n" name="2.png" path="/font/countdown1/"/>
+    <image id="w5z43o" name="3.png" path="/font/countdown1/"/>
+    <image id="w5z43p" name="4.png" path="/font/countdown1/"/>
+    <image id="w5z43q" name="5.png" path="/font/countdown1/"/>
+    <image id="w5z43r" name="6.png" path="/font/countdown1/"/>
+    <image id="w5z43s" name="7.png" path="/font/countdown1/"/>
+    <image id="w5z43t" name="8.png" path="/font/countdown1/"/>
+    <image id="w5z43u" name="9.png" path="/font/countdown1/"/>
+    <image id="w5z43v" name="10.png" path="/font/countdown1/"/>
+    <font id="w5z43w" name="CountdownFont1.fnt" path="/font/countdown1/" exported="true"/>
+    <component id="w5z43x" name="CountdownComp.xml" path="/"/>
+    <image id="w5z43y" name="倒计时.png" path="/res/"/>
+    <image id="w5z43z" name="倒计时框.png" path="/res/"/>
+    <misc id="rq8n41" name="XiaoEMo.atlas.txt" path="/spine/xem/"/>
+    <image id="rq8n42" name="XiaoEMo.png" path="/spine/xem/"/>
+    <spine id="rq8n40" name="XiaoEMo.json" path="/spine/xem/" exported="true" width="682" height="584" require="rq8n41,rq8n42" atlasNames="XiaoEMo" anchor="289,563"/>
+    <misc id="n7lk44" name="chuizi.atlas.txt" path="/spine/item/chuizi/"/>
+    <image id="n7lk45" name="chuizi.png" path="/spine/item/chuizi/"/>
+    <spine id="n7lk43" name="chuizi.json" path="/spine/item/chuizi/" exported="true" width="100" height="100" require="n7lk44,n7lk45" atlasNames="chuizi" anchor="100,100"/>
+    <misc id="n7lk47" name="caideng.atlas.txt" path="/spine/item/caideng/"/>
+    <image id="n7lk48" name="caideng.png" path="/spine/item/caideng/"/>
+    <spine id="n7lk46" name="caideng.json" path="/spine/item/caideng/" exported="true" width="100" height="100" require="n7lk47,n7lk48" atlasNames="caideng" anchor="100,100"/>
+    <misc id="n7lk4a" name="shandian.atlas.txt" path="/spine/item/shandian/"/>
+    <image id="n7lk4b" name="shandian.png" path="/spine/item/shandian/"/>
+    <spine id="n7lk49" name="shandian.json" path="/spine/item/shandian/" exported="true" width="687" height="1331" require="n7lk4a,n7lk4b" atlasNames="shandian" anchor="329,1174"/>
+    <image id="obfs4c" name="NEW.png" path="/res/"/>
+    <image id="obfs4d" name="RECORD.png" path="/res/"/>
+    <component id="u9vf4e" name="MapRender.xml" path="/comp/" exported="true"/>
+    <image id="u9vf4f" name="a1.png" path="/res/map/a/" exported="true"/>
+    <image id="u9vf4g" name="a2.png" path="/res/map/a/" exported="true"/>
+    <image id="c5sz4h" name="bofang.png" path="/res/"/>
+    <image id="c5sz4i" name="guanggao_anniu.png" path="/res/"/>
+    <component id="c5sz4j" name="Button1.xml" path="/comp/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="savhvpxm">
+  <resources>
+    <image id="pcej0" name="diban.png" path="/res/"/>
+    <image id="pcej1" name="jiesuan_shuzi.png" path="/res/"/>
+    <image id="pcej2" name="kuang.png" path="/res/"/>
+    <image id="pcej3" name="piaodai1.png" path="/res/"/>
+    <image id="pcej4" name="piaodai2.png" path="/res/"/>
+    <image id="pcej6" name="rewartd.png" path="/res/"/>
+    <image id="pcej8" name="youfall.png" path="/res/"/>
+    <image id="pcej9" name="结算胜利.jpg" path="/res/"/>
+    <image id="pceja" name="结算胜利2.jpg" path="/res/"/>
+    <image id="pcejb" name="biaoqian.png" path="/res/"/>
+    <component id="g19da" name="GameEndWin.xml" path="/" exported="true"/>
+    <component id="pcejc" name="LabelButton.xml" path="/comp/" exported="true"/>
+    <image id="hqtua" name="SCORE.png" path="/res/"/>
+    <image id="hqtuq" name="meijincon.png" path="/res/"/>
+    <component id="hqtur" name="MoneyComp.xml" path="/"/>
+    <image id="hqtus" name="YOU WIN.png" path="/res/"/>
+    <component id="s5i3t" name="SkinRewardWin.xml" path="/" exported="true"/>
+    <component id="xy6gu" name="ReviveWin.xml" path="/" exported="true"/>
+    <image id="xy6gv" name="kuang(1).png" path="/res/"/>
+    <image id="xy6gw" name="REVIVE.png" path="/res/"/>
+    <image id="xy6gx" name="revive-1.png" path="/res/"/>
+    <image id="xy6gy" name="kuang.png" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

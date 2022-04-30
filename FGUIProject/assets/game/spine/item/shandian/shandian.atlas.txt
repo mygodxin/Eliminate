@@ -1,0 +1,41 @@
+
+shandian.png
+size: 900,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShanDian
+  rotate: true
+  xy: 2, 140
+  size: 118, 465
+  orig: 118, 465
+  offset: 0, 0
+  index: -1
+fangsheguang_00184
+  rotate: false
+  xy: 469, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx_she_xian_glow_a
+  rotate: false
+  xy: 325, 74
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shandianxi
+  rotate: true
+  xy: 2, 16
+  size: 122, 321
+  orig: 122, 321
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: true
+  xy: 727, 33
+  size: 225, 171
+  orig: 225, 171
+  offset: 0, 0
+  index: -1

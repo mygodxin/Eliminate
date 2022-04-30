@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="218,86" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n0_m1hi" name="icon" xy="0,0" size="218,86" url="ui://8odbecjphy972b" autoSize="true"/>
+    <text id="n1_m1hi" name="title" xy="68,18" size="83,47" font="ui://8odbecjphy972c" fontSize="12" leading="0" letterSpacing="1" text="确定">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+  <Button sound="ui://8odbecjphy97i" downEffect="scale" downEffectValue="1.05"/>
+</component>

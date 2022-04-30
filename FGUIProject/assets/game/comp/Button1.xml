@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="61,48" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n4_c5sz" name="n4" src="c5sz4i" fileName="res/guanggao_anniu.png" xy="0,0" size="61,48"/>
+    <image id="n3_c5sz" name="n3" src="c5sz4h" fileName="res/bofang.png" xy="10,9"/>
+  </displayList>
+  <Button/>
+</component>

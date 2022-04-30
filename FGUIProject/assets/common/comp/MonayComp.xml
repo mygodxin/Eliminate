@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="388,159">
+  <displayList>
+    <image id="n7_pcej" name="n7" src="pceje" fileName="comp/shujukuang.png" xy="0,0" size="402,159">
+      <relation target="n5_fcm8" sidePair="rightext-right"/>
+    </image>
+    <image id="n6_pcej" name="n6" src="pcej1" fileName="comp/meijincon.png" xy="-32,24"/>
+    <text id="n5_fcm8" name="money" xy="118,28" size="270,94" fontSize="72" color="#673110" align="center" vAlign="middle" autoSize="none" bold="true" text="999"/>
+  </displayList>
+  <relation target="n5_fcm8" sidePair="rightext-right"/>
+</component>

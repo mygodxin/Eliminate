@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="820,24" extention="ProgressBar">
+  <displayList>
+    <image id="n0_hqtu" name="n0" src="hqtu3" fileName="res/jindutiao2.png" xy="0,0" size="820,24">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_hqtu" name="bar" src="hqtu2" fileName="res/jindutiao1.png" xy="0,2" size="820,20"/>
+    <image id="n2_hqtu" name="qiu" src="hqtu5" fileName="res/qiu.png" xy="818,-38" pivot="0.5,0.5" anchor="true">
+      <relation target="n1_hqtu" sidePair="left-right"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+  <transition name="t0"/>
+</component>

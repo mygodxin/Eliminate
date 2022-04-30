@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <controller name="type" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n5_rftl" name="n5" xy="0,0" size="1080,1920" type="rect" fillColor="#ff000000"/>
+    <component id="n0_s5i3" name="videoBtn" src="pcejq" fileName="btn/StartBtn.xml" pkg="8odbecjp" xy="245,1263" visible="false" controller="tip,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="COLLECT" icon="ui://8odbecjphy974z"/>
+    </component>
+    <component id="n1_s5i3" name="noBtn" src="m4ut2" fileName="IconButton.xml" pkg="8odbecjp" xy="379,1465" size="266,58">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="NO THANKS" icon="ui://8odbecjphqtu7"/>
+    </component>
+    <loader id="n2_s5i3" name="icon" xy="405,793" size="269,333" autoSize="true"/>
+    <loader3D id="n3_rftl" name="icon3D" xy="204,575" size="543,359" url="ui://8odbecjppon6n" animation="" skin="" loop="true">
+      <gearXY controller="type" pages="1" values="121,538" default="204,575"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader3D>
+  </displayList>
+</component>

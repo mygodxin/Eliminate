@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="x7dcax61">
+  <resources>
+    <component id="fcm80" name="StartScene.xml" path="/" exported="true"/>
+    <image id="pcej2" name="qipan.png" path="/res/"/>
+    <image id="pcej3" name="qiu1.png" path="/res/"/>
+    <image id="pcej4" name="qiu2.png" path="/res/"/>
+    <image id="pcej5" name="qiu3.png" path="/res/"/>
+    <image id="pcej6" name="qiu4.png" path="/res/"/>
+    <image id="pcej7" name="qiu5.png" path="/res/"/>
+    <image id="pcej8" name="qiu6.png" path="/res/"/>
+    <image id="pcej9" name="qiu7.png" path="/res/"/>
+    <image id="pceja" name="qiu8.png" path="/res/"/>
+    <image id="pcejb" name="Score 10 times in  the first 5 times.png" path="/res/"/>
+    <image id="pcejc" name="Score.png" path="/res/"/>
+    <image id="pcejd" name="shezhi.png" path="/res/"/>
+    <image id="pcejf" name="skins.png" path="/res/"/>
+    <image id="pcejg" name="主界面标注.jpg" path="/res/"/>
+    <image id="pcejh" name="ads.png" path="/res/"/>
+    <image id="pcejj" name="bj.jpg" path="/res/"/>
+    <image id="pcejk" name="bobiao.png" path="/res/"/>
+    <image id="pcejl" name="bofang.png" path="/res/"/>
+    <image id="pcejn" name="duihuakuang.png" path="/res/"/>
+    <misc id="hqtup" name="qipan.atlas.txt" path="/spine/"/>
+    <image id="hqtuq" name="qipan.png" path="/spine/"/>
+    <spine id="hqtuo" name="qipan.json" path="/spine/" width="1650" height="953" require="hqtup,hqtuq" atlasNames="qipan" anchor="825,476"/>
+    <component id="s5i3r" name="BuffWin.xml" path="/" exported="true"/>
+    <image id="pon6s" name="n15.png" path="/"/>
+    <image id="w7kit" name="SCORE(1).png" path="/res/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

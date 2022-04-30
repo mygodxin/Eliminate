@@ -1,0 +1,20 @@
+
+yxJieMian_bj.png
+size: 1227,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: true
+  xy: 1137, 665
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 2, 2
+  size: 759, 1133
+  orig: 759, 1133
+  offset: 0, 0
+  index: -1

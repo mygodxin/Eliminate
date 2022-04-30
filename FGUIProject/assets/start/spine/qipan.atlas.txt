@@ -1,0 +1,69 @@
+
+qipan.png
+size: 2031,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipan
+  rotate: false
+  xy: 2, 65
+  size: 1650, 953
+  orig: 1650, 953
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 1654, 737
+  size: 206, 281
+  orig: 206, 281
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 1853, 221
+  size: 169, 231
+  orig: 169, 231
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: false
+  xy: 1654, 454
+  size: 206, 281
+  orig: 206, 281
+  offset: 0, 0
+  index: -1
+qiu4
+  rotate: true
+  xy: 1654, 2
+  size: 179, 245
+  orig: 179, 245
+  offset: 0, 0
+  index: -1
+qiu5
+  rotate: true
+  xy: 1862, 468
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+qiu6
+  rotate: false
+  xy: 1862, 791
+  size: 167, 227
+  orig: 167, 227
+  offset: 0, 0
+  index: -1
+qiu7
+  rotate: false
+  xy: 1862, 582
+  size: 152, 207
+  orig: 152, 207
+  offset: 0, 0
+  index: -1
+qiu8
+  rotate: false
+  xy: 1654, 183
+  size: 197, 269
+  orig: 197, 269
+  offset: 0, 0
+  index: -1

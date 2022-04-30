@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110">
+  <controller name="sel" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n0_o218" name="icon" xy="2,2" size="104,104" url="ui://xww73zw2u9vf4g" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <relation target="n0_o218" sidePair="width-width,height-height"/>
+</component>

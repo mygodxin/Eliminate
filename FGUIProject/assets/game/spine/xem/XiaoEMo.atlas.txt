@@ -1,0 +1,265 @@
+
+XiaoEMo.png
+size: 1745,1541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang-L
+  rotate: true
+  xy: 1582, 1170
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+chibang-R
+  rotate: true
+  xy: 1190, 435
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 1095
+  size: 444, 390
+  orig: 487, 390
+  offset: 43, 0
+  index: -1
+shou-L
+  rotate: true
+  xy: 448, 1097
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+shou-L2
+  rotate: true
+  xy: 493, 1114
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 394, 1098
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 1582, 1298
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+weimao-L
+  rotate: false
+  xy: 2, 2
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+weimao-R
+  rotate: false
+  xy: 94, 2
+  size: 90, 26
+  orig: 90, 26
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 1574, 764
+  size: 164, 391
+  orig: 164, 391
+  offset: 0, 0
+  index: -1
+yanbai-L
+  rotate: true
+  xy: 1370, 467
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+yanbai-R
+  rotate: true
+  xy: 1278, 465
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+yanpi-L
+  rotate: false
+  xy: 1462, 469
+  size: 90, 92
+  orig: 91, 92
+  offset: 1, 0
+  index: -1
+yanpi-R
+  rotate: false
+  xy: 1554, 471
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+yanzhu-L
+  rotate: false
+  xy: 186, 6
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yanzhu-R
+  rotate: false
+  xy: 186, 6
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 1670, 1233
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+蓄力/1
+  rotate: true
+  xy: 2, 711
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/10
+  rotate: true
+  xy: 596, 389
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/11
+  rotate: true
+  xy: 770, 5
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/12
+  rotate: true
+  xy: 893, 773
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/13
+  rotate: true
+  xy: 988, 1157
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/14
+  rotate: true
+  xy: 893, 389
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/15
+  rotate: true
+  xy: 1067, 5
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/16
+  rotate: false
+  xy: 1190, 860
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/17
+  rotate: true
+  xy: 1285, 1157
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/18
+  rotate: false
+  xy: 1190, 563
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/19
+  rotate: true
+  xy: 1364, 81
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/2
+  rotate: true
+  xy: 2, 327
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/3
+  rotate: false
+  xy: 2, 30
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/4
+  rotate: true
+  xy: 299, 711
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/5
+  rotate: true
+  xy: 299, 327
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/6
+  rotate: false
+  xy: 386, 30
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/7
+  rotate: true
+  xy: 394, 1157
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/8
+  rotate: true
+  xy: 596, 773
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/9
+  rotate: true
+  xy: 691, 1157
+  size: 382, 295
+  orig: 382, 295
+  offset: 0, 0
+  index: -1
+蓄力/baoguang
+  rotate: false
+  xy: 1582, 1411
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
